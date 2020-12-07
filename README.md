@@ -1,16 +1,10 @@
-# todoey_app
+# Todoey_App_With_Firebase_Using_Provider
 
-A new Flutter application.
+appbrewery Todoey App with provider state management i have convert it and link to firebase firestore using provider.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Here's the Preview
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![sc1](https://user-images.githubusercontent.com/43205151/101402293-6bc96300-3888-11eb-8719-99c83bff478d.JPG)
+![ss2](https://user-images.githubusercontent.com/43205151/101402347-7b48ac00-3888-11eb-91c3-0b0fba1d3562.JPG)
