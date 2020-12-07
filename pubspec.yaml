@@ -1,0 +1,23 @@
+name: todoey_app
+description: appbrewery Todoey App with provider state management i have convert it and link to firebase firestore using provider.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  provider: ^4.3.2+3
+  cloud_firestore: ^0.14.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
